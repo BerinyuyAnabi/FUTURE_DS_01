@@ -1,4 +1,4 @@
-# Business Sales Dashboard – Power BI Project
+# Business Sales Dashboard – Super Store Dataset
 This project is part of the Future Interns Data Science & Analytics Internship Program. It involves building an interactive and insightful E-commerce Sales Dashboard using Power BI and Excel to help business stakeholders understand sales trends, product performance, and customer behavior.
 
 # Project Overview
